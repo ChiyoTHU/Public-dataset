@@ -18,9 +18,7 @@ Extraction code：9431
 > >
 > >The column names corresponding to the power and vibration signals in the X, Y, and Z directions are: P、Vx0、Vy0、Vz0。
 > >
-> >[image-20250102103821427](C:/Users/zhouz/AppData/Roaming/Typora/typora-user-images/image-20250102103821427.png)
-> >
-> >![image-20250102103958446](https://cdn.jsdelivr.net/gh/ChiyoTHU/Markdown@img/img/202501021040721.png)
+> >![image-20250102103821427](https://cdn.jsdelivr.net/gh/ChiyoTHU/Markdown@img/img/202501021041850.png)
 > >
 > >![](https://cdn.jsdelivr.net/gh/ChiyoTHU/Markdown@img/img/202501021041468.png)
 > >
